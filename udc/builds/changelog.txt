@@ -1,1 +1,15 @@
 
+Device Changes:
+===============
+Added custom UDFPS icons+animations
+Switched back to custom kernel source. Thanks to @Chuqol
+Addded VOOC charging
+
+
+Notable ROM changes:
+==============================
+Evolution X 9.2
+Merge July 2024 security patches
+
+Please report any bug or feature request to me:
+https://t.me/bugsinmahead
