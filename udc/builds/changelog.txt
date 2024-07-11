@@ -4,6 +4,7 @@ Device Changes:
 Added custom UDFPS icons+animations
 Switched back to custom kernel source. Thanks to @Chuqol
 Addded VOOC charging
+Some changes for UNOFFICIAL ota update
 
 
 Notable ROM changes:
