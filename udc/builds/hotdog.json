@@ -3,19 +3,19 @@
     {
       "maintainer": "darkinzen",
       "oem": "OnePlus",
-      "device": "OnePlus 7T Pro",
-      "filename": "EvolutionX-14.0-20240707-hotdog-v9.2-UNOFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/evo-hotdog/files/EvolutionX-14.0-20240707-hotdog-v9.2-UNOFFICIAL.zip/download",
-      "timestamp": 1720348045,
-      "md5": "b8ef4c65831471d9cf72ca89e7723e24",
-      "sha256": "9a712863802fc68b75ccbf6b02edd0a6be24fbeb0f7b0f275f77edf7f1fee0b7",
-      "size": 1749641581,
+      "device": "Hotdog",
+      "filename": "EvolutionX-14.0-20240712-hotdog-v9.2-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/evo-hotdog/files/ROM/EvolutionX-14.0-20240712-hotdog-v9.2-UNOFFICIAL.zip/download",
+      "timestamp": 1720739950,
+      "md5": "64a1e896c8bd3b22ad25bb05c64aaed4",
+      "sha256": "7874bdb0b9ebd31d52bb221f57e5b2906f35025b1e55f1f49a9daf13ec41af56",
+      "size": 1881237702,
       "version": "9.2",
       "buildtype": "UNOFFICIAL",
       "forum": "https://xdaforums.com/t/rom-evolution-xyz-for-oneplus-7t-pro-hotdog-unofficial.4676598/",
       "firmware": "",
       "paypal": "",
-      "telegram": "https://t.me/+r_tUCi1K8l0yYTM0"
+      "telegram": "https://t.me/bugsinmahead"
     }
   ]
 }
