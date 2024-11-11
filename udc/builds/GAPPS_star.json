@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-6.0-BETA-20241110-"AOSP_GAPPS"-COMMUNITY-star-ota-signed.zip",
+			"download": "",
+			"timestamp": 1731282632,
+			"md5": "653872078d45900efcc5c55c028f8ef0",
+			"sha256": "b339430ad61f55ec82c6901d5c65f65e0db71e010b388b99c56bc3f6366ed583",
+			"size": 2717723630,
+			"version": "6.0-Ascension",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
